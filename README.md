@@ -23,7 +23,7 @@ A Gaussian function, also known as a normal distribution or Gaussian bell curve,
 
 The general form of a Gaussian function is given by the equation:
 
-<img src="equation.svg" style="background-color: white;">​
+<img src="equation.svg" style="background-color: white !important;">​
 
 `x`: independent variable.
 `μ`: (mu): mean of the distribution.
